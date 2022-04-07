@@ -1,0 +1,330 @@
+Number of Clone Classes: 74
+
+0~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\optional\junit\XMLJUnitResultFormatter.java(302): 1~CloneInstance [Ln:302, Col:9 - Ln:311, Col:26]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\XmlLogger.java(279): 2~CloneInstance [Ln:279, Col:9 - Ln:288, Col:26]
+
+3~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\PathTest.java(123): 4~CloneInstance [Ln:123, Col:9 - Ln:133, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\PathTest.java(135): 5~CloneInstance [Ln:135, Col:9 - Ln:145, Col:10]
+
+6~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\CommandlineTest.java(88): 7~CloneInstance [Ln:88, Col:9 - Ln:98, Col:77]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\CommandlineTest.java(100): 8~CloneInstance [Ln:100, Col:9 - Ln:112, Col:28]
+
+9~CloneClass [Number of Clone Instances: 2, Lines of Code: 15]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\PathTest.java(233): 10~CloneInstance [Ln:233, Col:9 - Ln:248, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\PatternSetTest.java(108): 11~CloneInstance [Ln:108, Col:9 - Ln:122, Col:10]
+
+12~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(189): 13~CloneInstance [Ln:189, Col:9 - Ln:200, Col:40]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(370): 14~CloneInstance [Ln:370, Col:9 - Ln:381, Col:40]
+
+15~CloneClass [Number of Clone Instances: 3, Lines of Code: 14]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\FileSetTest.java(154): 16~CloneInstance [Ln:154, Col:9 - Ln:167, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\PathTest.java(250): 17~CloneInstance [Ln:250, Col:9 - Ln:264, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\PatternSetTest.java(130): 18~CloneInstance [Ln:130, Col:9 - Ln:143, Col:10]
+
+19~CloneClass [Number of Clone Instances: 3, Lines of Code: 10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\IntrospectionHelper.java(228): 20~CloneInstance [Ln:228, Col:11 - Ln:237, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\IntrospectionHelper.java(251): 21~CloneInstance [Ln:251, Col:11 - Ln:260, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\IntrospectionHelper.java(279): 22~CloneInstance [Ln:279, Col:11 - Ln:288, Col:10]
+
+23~CloneClass [Number of Clone Instances: 2, Lines of Code: 18]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Copy.java(304): 24~CloneInstance [Ln:304, Col:9 - Ln:321, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Move.java(116): 25~CloneInstance [Ln:116, Col:9 - Ln:133, Col:10]
+
+26~CloneClass [Number of Clone Instances: 2, Lines of Code: 20]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\optional\FTP.java(162): 27~CloneInstance [Ln:162, Col:24 - Ln:181, Col:22]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\DirectoryScanner.java(746): 28~CloneInstance [Ln:746, Col:16 - Ln:765, Col:14]
+
+29~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\optional\javacc\JavaCC.java(240): 30~CloneInstance [Ln:240, Col:9 - Ln:251, Col:70]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\optional\javacc\JJTree.java(192): 31~CloneInstance [Ln:192, Col:9 - Ln:203, Col:70]
+
+32~CloneClass [Number of Clone Instances: 2, Lines of Code: 21]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\FileSetTest.java(126): 33~CloneInstance [Ln:126, Col:9 - Ln:146, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\PatternSetTest.java(109): 34~CloneInstance [Ln:109, Col:9 - Ln:129, Col:10]
+
+35~CloneClass [Number of Clone Instances: 3, Lines of Code: 14]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\FileSetTest.java(126): 36~CloneInstance [Ln:126, Col:9 - Ln:139, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\PathTest.java(234): 37~CloneInstance [Ln:234, Col:9 - Ln:248, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\PatternSetTest.java(109): 38~CloneInstance [Ln:109, Col:9 - Ln:122, Col:10]
+
+39~CloneClass [Number of Clone Instances: 2, Lines of Code: 25]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(108): 40~CloneInstance [Ln:108, Col:9 - Ln:132, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(136): 41~CloneInstance [Ln:136, Col:9 - Ln:160, Col:10]
+
+42~CloneClass [Number of Clone Instances: 3, Lines of Code: 14]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\FileSetTest.java(119): 43~CloneInstance [Ln:119, Col:9 - Ln:132, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\FileSetTest.java(133): 44~CloneInstance [Ln:133, Col:9 - Ln:146, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\PatternSetTest.java(116): 45~CloneInstance [Ln:116, Col:9 - Ln:129, Col:10]
+
+46~CloneClass [Number of Clone Instances: 3, Lines of Code: 10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\optional\scm\AntStarTeamCheckOut.java(897): 47~CloneInstance [Ln:897, Col:4 - Ln:907, Col:23]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\DirectoryScanner.java(370): 48~CloneInstance [Ln:370, Col:13 - Ln:379, Col:32]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\DirectoryScanner.java(509): 49~CloneInstance [Ln:509, Col:13 - Ln:518, Col:32]
+
+50~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\optional\ejb\GenericDeploymentTool.java(210): 51~CloneInstance [Ln:210, Col:13 - Ln:222, Col:29]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Tar.java(139): 52~CloneInstance [Ln:139, Col:13 - Ln:148, Col:31]
+
+53~CloneClass [Number of Clone Instances: 3, Lines of Code: 21]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(281): 54~CloneInstance [Ln:281, Col:9 - Ln:301, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(302): 55~CloneInstance [Ln:302, Col:9 - Ln:322, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(336): 56~CloneInstance [Ln:336, Col:9 - Ln:356, Col:10]
+
+57~CloneClass [Number of Clone Instances: 4, Lines of Code: 14]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(281): 58~CloneInstance [Ln:281, Col:9 - Ln:294, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(295): 59~CloneInstance [Ln:295, Col:9 - Ln:308, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(309): 60~CloneInstance [Ln:309, Col:9 - Ln:322, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(336): 61~CloneInstance [Ln:336, Col:9 - Ln:349, Col:10]
+
+62~CloneClass [Number of Clone Instances: 2, Lines of Code: 13]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\optional\FTP.java(577): 63~CloneInstance [Ln:577, Col:13 - Ln:589, Col:27]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\optional\FTP.java(655): 64~CloneInstance [Ln:655, Col:13 - Ln:667, Col:27]
+
+65~CloneClass [Number of Clone Instances: 2, Lines of Code: 31]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\GenerateKey.java(263): 66~CloneInstance [Ln:263, Col:3 - Ln:293, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\SignJar.java(153): 67~CloneInstance [Ln:153, Col:9 - Ln:183, Col:10]
+
+68~CloneClass [Number of Clone Instances: 3, Lines of Code: 13]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\GenerateKey.java(263): 69~CloneInstance [Ln:263, Col:3 - Ln:275, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\GenerateKey.java(302): 70~CloneInstance [Ln:302, Col:3 - Ln:314, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\SignJar.java(153): 71~CloneInstance [Ln:153, Col:9 - Ln:165, Col:10]
+
+72~CloneClass [Number of Clone Instances: 3, Lines of Code: 10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Cvs.java(124): 73~CloneInstance [Ln:124, Col:9 - Ln:133, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Javac.java(573): 74~CloneInstance [Ln:573, Col:9 - Ln:582, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Javac.java(691): 75~CloneInstance [Ln:691, Col:9 - Ln:700, Col:10]
+
+76~CloneClass [Number of Clone Instances: 2, Lines of Code: 29]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\GenerateKey.java(265): 77~CloneInstance [Ln:265, Col:9 - Ln:293, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\SignJar.java(155): 78~CloneInstance [Ln:155, Col:9 - Ln:183, Col:10]
+
+79~CloneClass [Number of Clone Instances: 2, Lines of Code: 23]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\GenerateKey.java(265): 80~CloneInstance [Ln:265, Col:9 - Ln:287, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\SignJar.java(155): 81~CloneInstance [Ln:155, Col:9 - Ln:177, Col:10]
+
+82~CloneClass [Number of Clone Instances: 3, Lines of Code: 17]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\GenerateKey.java(265): 83~CloneInstance [Ln:265, Col:9 - Ln:281, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\SignJar.java(155): 84~CloneInstance [Ln:155, Col:9 - Ln:171, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\SignJar.java(173): 85~CloneInstance [Ln:173, Col:9 - Ln:189, Col:10]
+
+86~CloneClass [Number of Clone Instances: 6, Lines of Code: 11]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\GenerateKey.java(265): 87~CloneInstance [Ln:265, Col:9 - Ln:275, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\GenerateKey.java(277): 88~CloneInstance [Ln:277, Col:9 - Ln:287, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\GenerateKey.java(304): 89~CloneInstance [Ln:304, Col:9 - Ln:314, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\SignJar.java(155): 90~CloneInstance [Ln:155, Col:9 - Ln:165, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\SignJar.java(167): 91~CloneInstance [Ln:167, Col:9 - Ln:177, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\SignJar.java(179): 92~CloneInstance [Ln:179, Col:9 - Ln:189, Col:10]
+
+93~CloneClass [Number of Clone Instances: 2, Lines of Code: 15]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(251): 94~CloneInstance [Ln:251, Col:9 - Ln:265, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(266): 95~CloneInstance [Ln:266, Col:9 - Ln:280, Col:10]
+
+96~CloneClass [Number of Clone Instances: 3, Lines of Code: 10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(251): 97~CloneInstance [Ln:251, Col:9 - Ln:260, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(261): 98~CloneInstance [Ln:261, Col:9 - Ln:270, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(271): 99~CloneInstance [Ln:271, Col:9 - Ln:280, Col:10]
+
+100~CloneClass [Number of Clone Instances: 2, Lines of Code: 27]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(282): 101~CloneInstance [Ln:282, Col:9 - Ln:308, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(330): 102~CloneInstance [Ln:330, Col:9 - Ln:356, Col:10]
+
+103~CloneClass [Number of Clone Instances: 3, Lines of Code: 20]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(282): 104~CloneInstance [Ln:282, Col:9 - Ln:301, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(303): 105~CloneInstance [Ln:303, Col:9 - Ln:322, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(330): 106~CloneInstance [Ln:330, Col:9 - Ln:349, Col:10]
+
+107~CloneClass [Number of Clone Instances: 5, Lines of Code: 13]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(282): 108~CloneInstance [Ln:282, Col:9 - Ln:294, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(296): 109~CloneInstance [Ln:296, Col:9 - Ln:308, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(310): 110~CloneInstance [Ln:310, Col:9 - Ln:322, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(330): 111~CloneInstance [Ln:330, Col:9 - Ln:342, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(344): 112~CloneInstance [Ln:344, Col:9 - Ln:356, Col:10]
+
+113~CloneClass [Number of Clone Instances: 2, Lines of Code: 17]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\FileSetTest.java(109): 114~CloneInstance [Ln:109, Col:9 - Ln:125, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\PatternSetTest.java(89): 115~CloneInstance [Ln:89, Col:9 - Ln:105, Col:10]
+
+116~CloneClass [Number of Clone Instances: 2, Lines of Code: 26]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(108): 117~CloneInstance [Ln:108, Col:9 - Ln:133, Col:72]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(141): 118~CloneInstance [Ln:141, Col:9 - Ln:166, Col:83]
+
+119~CloneClass [Number of Clone Instances: 2, Lines of Code: 20]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(108): 120~CloneInstance [Ln:108, Col:9 - Ln:127, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(136): 121~CloneInstance [Ln:136, Col:9 - Ln:155, Col:10]
+
+122~CloneClass [Number of Clone Instances: 3, Lines of Code: 15]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(108): 123~CloneInstance [Ln:108, Col:9 - Ln:122, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(136): 124~CloneInstance [Ln:136, Col:9 - Ln:150, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(151): 125~CloneInstance [Ln:151, Col:9 - Ln:165, Col:10]
+
+126~CloneClass [Number of Clone Instances: 5, Lines of Code: 10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(108): 127~CloneInstance [Ln:108, Col:9 - Ln:117, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(118): 128~CloneInstance [Ln:118, Col:9 - Ln:127, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(136): 129~CloneInstance [Ln:136, Col:9 - Ln:145, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(146): 130~CloneInstance [Ln:146, Col:9 - Ln:155, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\IntrospectionHelperTest.java(156): 131~CloneInstance [Ln:156, Col:9 - Ln:165, Col:10]
+
+132~CloneClass [Number of Clone Instances: 3, Lines of Code: 11]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\DirectoryScanner.java(252): 133~CloneInstance [Ln:252, Col:9 - Ln:262, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\DirectoryScanner.java(314): 134~CloneInstance [Ln:314, Col:9 - Ln:324, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\DirectoryScanner.java(341): 135~CloneInstance [Ln:341, Col:9 - Ln:351, Col:10]
+
+136~CloneClass [Number of Clone Instances: 2, Lines of Code: 27]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\Project.java(144): 137~CloneInstance [Ln:144, Col:9 - Ln:170, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\Project.java(172): 138~CloneInstance [Ln:172, Col:9 - Ln:198, Col:10]
+
+139~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Rmic.java(244): 140~CloneInstance [Ln:244, Col:9 - Ln:253, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Rmic.java(256): 141~CloneInstance [Ln:256, Col:13 - Ln:265, Col:14]
+
+142~CloneClass [Number of Clone Instances: 2, Lines of Code: 15]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Copy.java(259): 143~CloneInstance [Ln:259, Col:27 - Ln:273, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Copydir.java(144): 144~CloneInstance [Ln:144, Col:62 - Ln:160, Col:6]
+
+145~CloneClass [Number of Clone Instances: 3, Lines of Code: 13]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Copy.java(243): 146~CloneInstance [Ln:243, Col:9 - Ln:257, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Copy.java(260): 147~CloneInstance [Ln:260, Col:13 - Ln:272, Col:14]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Copydir.java(145): 148~CloneInstance [Ln:145, Col:9 - Ln:159, Col:10]
+
+149~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Javac.java(720): 150~CloneInstance [Ln:720, Col:9 - Ln:731, Col:82]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Javac.java(739): 151~CloneInstance [Ln:739, Col:9 - Ln:749, Col:86]
+
+152~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\AntClassLoader.java(324): 153~CloneInstance [Ln:324, Col:33 - Ln:333, Col:14]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\AntClassLoader.java(334): 154~CloneInstance [Ln:334, Col:18 - Ln:343, Col:14]
+
+155~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\optional\scm\AntStarTeamCheckOut.java(555): 156~CloneInstance [Ln:555, Col:3 - Ln:565, Col:4]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\optional\scm\AntStarTeamCheckOut.java(568): 157~CloneInstance [Ln:568, Col:3 - Ln:578, Col:4]
+
+158~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\optional\ejb\Ejbc.java(114): 159~CloneInstance [Ln:114, Col:9 - Ln:123, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\optional\ejb\DDCreator.java(104): 160~CloneInstance [Ln:104, Col:9 - Ln:113, Col:10]
+
+161~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Cvs.java(184): 162~CloneInstance [Ln:184, Col:19 - Ln:195, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\GUnzip.java(129): 163~CloneInstance [Ln:129, Col:23 - Ln:140, Col:14]
+
+164~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Tar.java(116): 165~CloneInstance [Ln:116, Col:11 - Ln:127, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\GZip.java(103): 166~CloneInstance [Ln:103, Col:11 - Ln:114, Col:10]
+
+167~CloneClass [Number of Clone Instances: 2, Lines of Code: 18]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Untar.java(108): 168~CloneInstance [Ln:108, Col:21 - Ln:125, Col:22]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Expand.java(123): 169~CloneInstance [Ln:123, Col:7 - Ln:140, Col:8]
+
+170~CloneClass [Number of Clone Instances: 2, Lines of Code: 15]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\optional\FTP.java(123): 171~CloneInstance [Ln:123, Col:13 - Ln:137, Col:41]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\DirectoryScanner.java(661): 172~CloneInstance [Ln:661, Col:9 - Ln:675, Col:41]
+
+173~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Cvs.java(149): 174~CloneInstance [Ln:149, Col:13 - Ln:158, Col:14]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Cvs.java(159): 175~CloneInstance [Ln:159, Col:13 - Ln:168, Col:14]
+
+176~CloneClass [Number of Clone Instances: 2, Lines of Code: 14]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\optional\metamata\MParse.java(115): 177~CloneInstance [Ln:115, Col:9 - Ln:128, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\optional\javacc\JJTree.java(183): 178~CloneInstance [Ln:183, Col:9 - Ln:196, Col:10]
+
+179~CloneClass [Number of Clone Instances: 2, Lines of Code: 15]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\optional\scm\AntStarTeamCheckOut.java(279): 180~CloneInstance [Ln:279, Col:3 - Ln:293, Col:4]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\optional\scm\AntStarTeamCheckOut.java(294): 181~CloneInstance [Ln:294, Col:3 - Ln:308, Col:4]
+
+182~CloneClass [Number of Clone Instances: 3, Lines of Code: 10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\optional\scm\AntStarTeamCheckOut.java(279): 183~CloneInstance [Ln:279, Col:3 - Ln:288, Col:4]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\optional\scm\AntStarTeamCheckOut.java(289): 184~CloneInstance [Ln:289, Col:3 - Ln:298, Col:4]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\optional\scm\AntStarTeamCheckOut.java(299): 185~CloneInstance [Ln:299, Col:3 - Ln:308, Col:4]
+
+186~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\optional\FTP.java(182): 187~CloneInstance [Ln:182, Col:25 - Ln:192, Col:26]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\DirectoryScanner.java(765): 188~CloneInstance [Ln:765, Col:20 - Ln:775, Col:14]
+
+189~CloneClass [Number of Clone Instances: 4, Lines of Code: 17]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\optional\scm\AntStarTeamCheckOut.java(837): 190~CloneInstance [Ln:837, Col:3 - Ln:858, Col:4]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\optional\scm\AntStarTeamCheckOut.java(861): 191~CloneInstance [Ln:861, Col:3 - Ln:882, Col:4]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\DirectoryScanner.java(462): 192~CloneInstance [Ln:462, Col:9 - Ln:478, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\DirectoryScanner.java(481): 193~CloneInstance [Ln:481, Col:9 - Ln:497, Col:10]
+
+194~CloneClass [Number of Clone Instances: 2, Lines of Code: 18]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Copydir.java(100): 195~CloneInstance [Ln:100, Col:9 - Ln:118, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Copyfile.java(94): 196~CloneInstance [Ln:94, Col:9 - Ln:111, Col:10]
+
+197~CloneClass [Number of Clone Instances: 2, Lines of Code: 19]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Javac.java(651): 198~CloneInstance [Ln:651, Col:9 - Ln:669, Col:31]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Javac.java(852): 199~CloneInstance [Ln:852, Col:9 - Ln:870, Col:31]
+
+200~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\GenerateKey.java(237): 201~CloneInstance [Ln:237, Col:9 - Ln:247, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\SignJar.java(135): 202~CloneInstance [Ln:135, Col:9 - Ln:145, Col:10]
+
+203~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\FileSetTest.java(87): 204~CloneInstance [Ln:87, Col:9 - Ln:97, Col:27]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\PatternSetTest.java(87): 205~CloneInstance [Ln:87, Col:9 - Ln:97, Col:30]
+
+206~CloneClass [Number of Clone Instances: 2, Lines of Code: 53]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\FileSetTest.java(178): 207~CloneInstance [Ln:178, Col:9 - Ln:230, Col:44]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\PatternSetTest.java(147): 208~CloneInstance [Ln:147, Col:9 - Ln:199, Col:44]
+
+209~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\ProjectHelper.java(421): 210~CloneInstance [Ln:421, Col:9 - Ln:431, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\ProjectHelper.java(487): 211~CloneInstance [Ln:487, Col:9 - Ln:497, Col:10]
+
+212~CloneClass [Number of Clone Instances: 2, Lines of Code: 15]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\DirectoryScanner.java(599): 213~CloneInstance [Ln:599, Col:5 - Ln:613, Col:6]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\DirectoryScanner.java(626): 214~CloneInstance [Ln:626, Col:5 - Ln:640, Col:6]
+
+215~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\TaskOutputStream.java(97): 216~CloneInstance [Ln:97, Col:5 - Ln:107, Col:6]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\JavacOutputStream.java(92): 217~CloneInstance [Ln:92, Col:5 - Ln:102, Col:6]
+
+218~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\types\PatternSet.java(210): 219~CloneInstance [Ln:210, Col:6 - Ln:220, Col:7]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\types\PatternSet.java(227): 220~CloneInstance [Ln:227, Col:6 - Ln:237, Col:7]
+
+221~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\types\PatternSet.java(166): 222~CloneInstance [Ln:166, Col:5 - Ln:176, Col:6]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\types\PatternSet.java(184): 223~CloneInstance [Ln:184, Col:5 - Ln:194, Col:6]
+
+224~CloneClass [Number of Clone Instances: 3, Lines of Code: 11]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\FixCRLF.java(146): 225~CloneInstance [Ln:146, Col:5 - Ln:156, Col:6]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\FixCRLF.java(168): 226~CloneInstance [Ln:168, Col:5 - Ln:178, Col:6]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\FixCRLF.java(203): 227~CloneInstance [Ln:203, Col:5 - Ln:213, Col:6]
+
+228~CloneClass [Number of Clone Instances: 2, Lines of Code: 34]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\DirectoryScanner.java(229): 229~CloneInstance [Ln:229, Col:9 - Ln:262, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\DirectoryScanner.java(291): 230~CloneInstance [Ln:291, Col:9 - Ln:324, Col:10]
+
+231~CloneClass [Number of Clone Instances: 2, Lines of Code: 123]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\optional\scm\AntStarTeamCheckOut.java(793): 232~CloneInstance [Ln:793, Col:2 - Ln:943, Col:3]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\DirectoryScanner.java(426): 233~CloneInstance [Ln:426, Col:5 - Ln:548, Col:6]
+
+234~CloneClass [Number of Clone Instances: 2, Lines of Code: 23]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\optional\junit\XMLJUnitResultFormatter.java(258): 235~CloneInstance [Ln:258, Col:9 - Ln:280, Col:53]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\XmlLogger.java(237): 236~CloneInstance [Ln:237, Col:9 - Ln:259, Col:53]
+
+237~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\War.java(158): 238~CloneInstance [Ln:158, Col:5 - Ln:168, Col:6]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\taskdefs\Jar.java(138): 239~CloneInstance [Ln:138, Col:5 - Ln:148, Col:6]
+
+240~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\AntClassLoader.java(170): 241~CloneInstance [Ln:170, Col:5 - Ln:179, Col:6]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\AntClassLoader.java(194): 242~CloneInstance [Ln:194, Col:5 - Ln:203, Col:6]
+
+243~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\IntrospectionHelper.java(294): 244~CloneInstance [Ln:294, Col:5 - Ln:303, Col:6]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\IntrospectionHelper.java(308): 245~CloneInstance [Ln:308, Col:5 - Ln:317, Col:6]
+
+246~CloneClass [Number of Clone Instances: 2, Lines of Code: 15]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\types\PatternSet.java(323): 247~CloneInstance [Ln:323, Col:5 - Ln:337, Col:6]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\main\org\apache\tools\ant\types\FileSet.java(263): 248~CloneInstance [Ln:263, Col:5 - Ln:277, Col:6]
+
+249~CloneClass [Number of Clone Instances: 4, Lines of Code: 17]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\FileSetTest.java(178): 250~CloneInstance [Ln:178, Col:9 - Ln:194, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\FileSetTest.java(203): 251~CloneInstance [Ln:203, Col:9 - Ln:219, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\PatternSetTest.java(147): 252~CloneInstance [Ln:147, Col:9 - Ln:163, Col:10]
+C:\Users\tiaru\Desktop\SourceMeter-10.0.0-x64-Windows\Java\Apache1.2\jakarta-ant-1.2\src\testcases\org\apache\tools\ant\types\PatternSetTest.java(172): 253~CloneInstance [Ln:172, Col:9 - Ln:188, Col:10]
+
